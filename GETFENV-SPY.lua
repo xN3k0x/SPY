@@ -1,3 +1,4 @@
+-- Written By WW.#3179 (Discord) | xN3k0x (GitHub)
 return function (settings)
     local FileName = os.date("GETFENV-LOG %Y.%m.%d.%H.%M.%S.txt")
     writefile(FileName, "")
